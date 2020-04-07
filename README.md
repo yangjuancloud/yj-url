@@ -2,7 +2,7 @@
 
 # 免代理网址:https://bit.ly/2OyuHwL
 
-# 跳转页：https://bit.ly/2mjKZ0V
+# 跳转页：https://miejump.com
 
 ## 永久官网:【中国大陆地区访问需要科学访问】 <br>https://mielink.me   <br> https://yangjuan.network
 # 无法打开请多刷新几遍，或者切换网络环境尝试
