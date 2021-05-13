@@ -3,6 +3,8 @@
 # MieLink｜羊圈 官网网址发布<br>请阁下Ctrl+D收藏此页面避免丢失！
 
 ## 永久官网: <br>https://www.mielink.com
+## 备用官网：<br>https://www.mielink.cc
+
 ## 跳转页: <br>https://www.miejump.com
 
 
