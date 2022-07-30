@@ -4,7 +4,7 @@
 
 ## Permanent official website: <br>https://mielink.com
 ## Alternate official website: <br>https://www.mielink.cc
-## Alternate official website2: <br>https://www.mielink.org
+## Alternate official website2: <br>https://mielink.org
 
 ## Jump page: <br>https://www.miejump.com
 
