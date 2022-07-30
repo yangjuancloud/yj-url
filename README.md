@@ -2,8 +2,9 @@
 
 # MieLink｜The Yangquan official website is released<br>Please Ctrl+D to bookmark this page to avoid losing it!
 
-## Permanent official website: <br>https://www.mielink.com
+## Permanent official website: <br>https://mielink.com
 ## Alternate official website: <br>https://www.mielink.cc
+## Alternate official website2: <br>https://www.mielink.org
 
 ## Jump page: <br>https://www.miejump.com
 
