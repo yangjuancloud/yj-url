@@ -3,10 +3,10 @@
 # MieLink｜The Yangquan official website is released<br>Please Ctrl+D to bookmark this page to avoid losing it!
 
 ## Permanent official website: <br>https://mielink.com
-## Alternate official website: <br>https://www.mielink.cc
+## Alternate official website: <br>https://mielink.cc
 ## Alternate official website2: <br>https://mielink.org
 
-## Jump page: <br>https://www.miejump.com
+## Jump page: <br>https://gotomie.com
 
 
 # If the official website cannot be opened normally, please check whether the local (router) proxy is closed, change the browser or use the 4G network of the mobile phone to try.
